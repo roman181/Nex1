@@ -2008,3 +2008,21 @@ Insbesondere gilt dauerhaft:
 Die Anwendung entscheidet deterministisch über Berechtigungen und Ausführung.»
 
 Ende der SKILL.md v2
+
+<!-- omgithub:readme:start -->
+## 🚀 Build, play, and remix with OMGithub
+
+**Remixed using [OMGithub.com](https://go.ondev.store/).**
+
+[![OMGithub](https://img.shields.io/badge/OMGithub-Open%20project-orange?style=for-the-badge)](https://go.ondev.store/roman181/Nex1)
+[![GitHub](https://img.shields.io/badge/GitHub-Source-181717?logo=github&style=for-the-badge)](https://github.com/roman181/Nex1)
+
+- 🎮 [Open the project](https://go.ondev.store/roman181/Nex1).
+- ✨ [Remix this project](https://go.ondev.store/roman181/Nex1?remix=1).
+- 💻 [Explore the source](https://github.com/roman181/Nex1).
+- 🛠️ [Check build runs](https://github.com/roman181/Nex1/actions).
+- 🐛 [Report an issue](https://github.com/roman181/Nex1/issues).
+- 👤 [Explore the creator's projects](https://go.ondev.store/roman181).
+- 🌍 [Create with OMGithub](https://go.ondev.store/).
+- 🧬 [Explore the remix source](https://github.com/roman181/Nex1).
+<!-- omgithub:readme:end -->
