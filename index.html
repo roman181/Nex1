@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#0b1014">
+  <meta name="description" content="Cycle Control – ein taktisches Incident-Response-Spiel über sichere Agenten-Zyklen.">
+  <title>N1 — Cycle Control</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="app-shell">
+    <header class="topbar">
+      <a class="brand" href="#" aria-label="N1 Cycle Control Start"><span class="brand-mark">N<span>1</span></span><span class="brand-copy">CYCLE<span>CONTROL</span></span></a>
+      <div class="top-meta"><span class="live-dot"></span><span>SIMULATION // OFFLINE</span><span class="top-divider"></span><span id="clock">00:00:00</span></div>
+      <button class="stop-button" id="stopButton"><span class="stop-icon">Ⅱ</span><span>NOT-STOPP</span><kbd>ESC</kbd></button>
+    </header>
+    <main id="game" class="layout" aria-live="polite"></main>
+    <footer class="footer"><span>N1 OPERATIONS SIMULATOR <i>•</i> BUILD 2.0</span><span>ALLE QUELLEN SIND SIMULIERT <i>•</i> KEINE LIVE-DATEN</span></footer>
+  </div>
+  <div class="toast" id="toast" role="status"></div>
+  <script src="game.js"></script>
+</body>
+</html>
